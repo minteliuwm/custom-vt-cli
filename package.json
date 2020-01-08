@@ -1,0 +1,17 @@
+{
+  "name": "custom-vt-cli",
+  "version": "1.2.0",
+  "description": "A cli based on vue and typescript",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "vt-cli": "index.js"
+  },
+  "author": "liuwm",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "commander": "^4.1.0"
+  }
+}
