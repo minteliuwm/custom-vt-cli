@@ -1,6 +1,6 @@
 {
   "name": "custom-vt-cli",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "description": "A cli based on vue and typescript",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
